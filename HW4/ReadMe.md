@@ -1,2 +1,2 @@
 Google Colab Link: https://colab.research.google.com/drive/1FbuNCBPwUkq183WaNFGR44QBSNKvUPmf
-or: https://colab.research.google.com/drive/1FbuNCBPwUkq183WaNFGR44QBSNKvUPmf?usp=sharing
+\nor: https://colab.research.google.com/drive/1FbuNCBPwUkq183WaNFGR44QBSNKvUPmf?usp=sharing
